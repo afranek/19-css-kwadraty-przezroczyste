@@ -1,0 +1,33 @@
+body {
+	background-color: #f5fddf;
+}
+
+div {
+	text-align: center;
+}
+
+.first,
+.second,
+.third,
+.forth {
+	margin: 10px;
+	height: 200px;
+	width: 200px;
+	display: inline-block;
+}
+
+.first {
+	background-color: rgb(0, 0, 0, 1);
+}
+
+.second {
+	background-color: rgba(0, 0, 0, 0.7);
+}
+
+.third {
+	background-color: rgba(0, 0, 0, 0.4);
+}
+
+.forth {
+	background-color: rgba(0, 0, 0, 0.1);
+}
